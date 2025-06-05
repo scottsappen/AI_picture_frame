@@ -1,2 +1,3 @@
 # AI_picture_frame
-The python program I used
+
+About this project: https://buildamountainbike.com/the-7-day-ai-picture-frame/
